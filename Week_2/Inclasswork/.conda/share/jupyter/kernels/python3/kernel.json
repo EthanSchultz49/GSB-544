@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/ethanschultz/Documents/GSB 544/Week_2/Inclasswork/.conda/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
